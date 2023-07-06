@@ -14,9 +14,15 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <center>
-          Hi!👋 I am a 3rd year iBSc Neuroscience student at UCL. Interested in cranial loopy
-          thingys and machine bits!
+          Hi!👋 I am a 3rd year iBSc Neuroscience student at UCL. Interested in alignment optimisation of incentives, cranial loopy
+          thingys and electron ditches!
         </center>
+        <small>
+        <i style={{fontSize: '10px'}}>
+          <pre>const business = "alignment optimisation of incentives"</pre>
+          <pre>const brain = "cranial loopy thingys"</pre>
+          <pre>const computers = ["electron ditches"]</pre>
+        </i></small>
         <div>
           <h3>Posts</h3>
           <ul className={utilStyles.list}>
