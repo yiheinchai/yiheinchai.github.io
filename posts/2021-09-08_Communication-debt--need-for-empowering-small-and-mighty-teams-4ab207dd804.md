@@ -16,6 +16,7 @@ The interaction between human brains and information transfer is inherently extr
 To visualize the exponential communication debt of larger teams, we can see it in terms of an exponential function.
 
 
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/3c8131e2-8060-4ff4-a136-1202cc7a53ab)
 Graphical depiction of communication debt
 As shown by the graph, increasing the number of the people in the team will exponentially increase the difficulty of communication and henceforth the probability of miscommunication within the team. This can be partially mitigated by changing s by training and improving the communication skill of the entire team. However, this does not mitigate the fact that the difficulty of communication still grows at an exponential pace.
 
