@@ -17,12 +17,12 @@ export default function Home({ allPostsData }) {
           Hi!👋 I am a 3rd year iBSc Neuroscience student at UCL. Interested in alignment optimisation of incentives, cranial loopy
           thingys and electron ditches!
         </center>
-        <small>
-        <i style={{fontSize: '10px'}}>
+
+        <i style={{fontSize: '10px', marginTop: '10px'}}>
           <pre>const business = "alignment optimisation of incentives"</pre>
-          <pre>const brain = "cranial loopy thingys"</pre>
+          <pre>const neuroscience = "cranial loopy thingys"</pre>
           <pre>const computers = ["electron ditches"]</pre>
-        </i></small>
+        </i>
         <div>
           <h3>Posts</h3>
           <ul className={utilStyles.list}>
