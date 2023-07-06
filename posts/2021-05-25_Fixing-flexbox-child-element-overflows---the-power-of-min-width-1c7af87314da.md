@@ -5,18 +5,18 @@ date: '2021-05-25'
 In modern day web development, it is common for flex boxes to be embed and nested deep within each other.
 
 For example, to create a layout such as this:
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/54253fba-b572-4e8a-8cd5-bfd3d45ddd7f)
 
 Example Layout
 A possible solution would be the following:
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/0f199aef-b375-4d06-ac95-50f767a6067e)
 
 Here, we have the following structure:
 
 Flex Row -> Flex Column -> Flex Row
 
 Now, what happens if we add more chips such that the innermost flex row overflows?
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/86df7eae-8a68-47dd-bcf5-62f1dc6497e2)
 
 We can see that by adding more chips, causes the innermost flex row to overflow. This overflow then cascades up: causing flex column to increase in width, which in turns causes the outermost flex row to increase in width. Now the width of the layout is much wider than the desired width.
 
@@ -25,7 +25,7 @@ The simple and most straight-forward solution is to set the innermost flex row w
 flex-flow: row wrap;
 
 Enabling wrapping causes it to look like this,
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/4c17bc33-9248-4ed0-b507-5f90ec04e7d2)
 
 However, with the chips wrapping over the next line, this isn’t the most aesthetically pleasing design.
 
@@ -36,10 +36,11 @@ overflow: scroll;
 whitespace: nowrap;
 
 However, here we encounter our first gotcha. Applying “overflow: scroll;” still results in overflow.
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/9187d00d-d53d-4b42-854e-6d8c6d97196e)
 
 After applying “overflow: scroll”
 In Firefox dev tools, analysis of the outermost flex row looks like this:
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/fc43b917-fcd8-47c2-9277-9bf20708ef0f)
 
 
 A Postulation of Why this Phenomenon Occurs
