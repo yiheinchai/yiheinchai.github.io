@@ -4,7 +4,7 @@ date: '2021-06-15'
 ---
 What does it mean to make a good product? In this article, I present the factors that contribute to perceived product quality and how it relates to product development spend.
 
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/32b7c23c-6b8e-48f7-8b19-86ba2f41782d)
 Graphical Representation of Theory of Product Quality
 Building a product starts with trying to solve a practical problem.
 
@@ -14,11 +14,11 @@ The theory of product quality can be represented in the form of a graph, where t
 
 In the example above regarding the knife, the product will sit somewhere in the middle of the blue curve, denoted by the red point as “Apple Cutter V1”. The product possesses the core functionality of being able to cut an apple in half. It solves the core and practical problem.
 
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/64a24fc4-aad3-400f-8e8f-5d86f40ff54c)
 Apple Cutter V1 Mapped on the Graph
 Now, if additional dollars were poured in to further develop the knife, the knife may become larger, sharper, longer — making it even easier and faster to cut the apple in half. Therefore, the red dot position of “Apple Cutter V2” will shift upwards and rightwards from “Apple Cutter V1”.
 
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/87d0edb3-ab17-4c5a-b58f-c4aa921ed0fa)
 Apple Cutter V2 Mapped on the Graph
 Now, if even more money is poured into the development of this “Apple Cutter”, we can potentially use stronger metals to make the knife, maybe even use diamond to create the most durable knife edge. However, with those improvements, it barely improves the perceived product quality. Why? Because the practical problem that needs to be solve is simply to cut the apple in half. Having these fancy (diamond edged knife) is just excessive.
 
@@ -30,7 +30,7 @@ With even more development dollars spent, we can possibly hire designers and cra
 
 Now, trying to map “Apple Cutter V3” on the graph,
 
-
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/b50d78c1-cadf-4ef1-9bf2-e19143013570)
 Apple Cutter V3 Mapped on the Graph
 By now, focusing on catering to the emotional mind of the user with our product, we open up a whole new world of possibilities. Therefore, we can see that “Apple Cutter V3” is now on the exponential increment portion of the yellow graph.
 
@@ -39,6 +39,7 @@ Now, if even more money is poured into product development, we can invite a worl
 Mapping “Apple Cutter V4” on the graph, with move further rightwards and upwards on the yellow graph.
 
 
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/5f7f7582-4a19-4860-80e7-444367faf896)
 Apple Cutter V4 Mapped on the Graph
 It is important to notice here that we now at again at the point of diminishing returns. Diving too deep into the sub-conscious realm when designing this apple cutter may not be appreciated by everyone. Therefore, the perceived quality “Apple Cutter V4” lies is evidently lower than its intended quality (shown by the dotted line).
 
@@ -55,6 +56,7 @@ Therefore, for the many many product developers today and of the future, it is m
 In the society that places increasing emphasis of the practical math and sciences, it is easy for people to discount the importance of the arts. But what many do not realize is that the arts is imbued in everything in the world. Life is the interaction between humans and the environment. While the math and sciences seeks to explain and understand our environment, the arts seeks to cater to us as human beings. As long as humans continue to exist and continue to use products, we must incorporate art in the products that we build.
 
 
+![image](https://github.com/yiheinchai/yiheinchai.github.io/assets/76833604/122199d6-34d8-41c2-97fa-beb14921ee8f)
 Product Development Process
 The product development process should look something like the figure above. We start by observing the environment in our own lens. We identify a problem, go into that environment and create a product to solve the problem. Having solved the problem, we than go into the humanity realm to think about the second challenge: how can our product cater to it’s human user? We think about the sub-conscious realm and think about how to cater to the emotional mind.
 
