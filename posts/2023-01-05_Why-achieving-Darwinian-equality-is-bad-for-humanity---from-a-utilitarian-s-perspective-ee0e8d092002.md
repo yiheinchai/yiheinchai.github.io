@@ -1,6 +1,6 @@
 ---
 title: 'Why achieving Darwinian equality is bad for humanity — from a utilitarian’s perspective'
-date: '2023-01-05'
+date: '2021-06-15'
 ---
 In the previous article, I expressed how to achieve true equality — by ensuring Lemarkian equality and Darwinian equality. In this article, I will demonstrate the utilitarian ills of ensuring Darwinian equality.
 
